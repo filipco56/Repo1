@@ -1,0 +1,22 @@
+{
+  "name": "repository",
+  "version": "0.0.1",
+  "authors": [
+    "filipco56 <fico.hiki@gmail.com>"
+  ],
+  "description": "site",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "daneden/animate.css#~3.2.6",
+    "hover": "filipco56/hover",
+    "jquery": "~2.1.3",
+    "plugin_for_others": "agentmi6/plugin_for_others"
+  }
+}
